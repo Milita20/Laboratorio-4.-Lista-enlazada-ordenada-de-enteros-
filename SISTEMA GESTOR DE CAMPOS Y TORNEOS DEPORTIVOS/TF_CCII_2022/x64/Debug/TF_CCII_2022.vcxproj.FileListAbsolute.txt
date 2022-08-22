@@ -1,0 +1,5 @@
+E:\C++\2022\CCII_____TF\v1\TF_CCII_2022\TF_CCII_2022\x64\Debug\TF_CCII_2022.vcxproj.AssemblyReference.cache
+E:\C++\2022\CCII_____TF\v1\TF_CCII_2022\TF_CCII_2022\x64\Debug\TF_CCII_2022.vcxproj.SuggestedBindingRedirects.cache
+E:\C++\2022\CCII_____TF\v1\TF_CCII_2022\TF_CCII_2022\x64\Debug\TF_CCII_2022.Menu_Inicio.resources
+E:\C++\2022\CCII_____TF\v1\TF_CCII_2022\TF_CCII_2022\x64\Debug\TF_CCII_2022.vcxproj.GenerateResource.cache
+E:\C++\2022\CCII_____TF\v1\TF_CCII_2022\TF_CCII_2022\x64\Debug\TF_CCII_2022.vcxproj.CopyComplete
